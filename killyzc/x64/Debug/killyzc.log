@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\KillYZC\killyzc\killyzc\head.h(159,16): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+E:\KillYZC\killyzc\killyzc\head.h(170,21): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+E:\KillYZC\killyzc\killyzc\head.h(180,21): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+  killyzc.vcxproj -> E:\KillYZC\killyzc\x64\Debug\killyzc.exe
