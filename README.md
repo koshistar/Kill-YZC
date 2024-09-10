@@ -1,2 +1,3 @@
 # Kill-YZC
 A little game project made by C++ for coursework.
+This is a really small game made by myself when I was a freshman. When you enter the game, you will see welcome canvas and you can start the game, go to the shop and exit. In the game, you can use your mouth to control your character-a goblin. You shoot "boom initiator" to kill the emoji "Ciallo～(∠・ω< )⌒★". When you press the Esc, you will enter pause canvas and see your health and kill numbers. By expend kill numbers, you can level yourself or YZC in the shop. That's simple introduction for this game. Can you get 0721 kill numbers in the game?
